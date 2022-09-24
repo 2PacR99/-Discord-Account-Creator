@@ -1,2 +1,6 @@
 # -Discord-Account-Creator
-Discord Account/Token Creator + Automatic Server Joiner + Automatic Boosts
+
+# A mass Discord account/token creator that can be used for:
++ Getting LVL3 Boost
++ Gaining server members
++ etc.
